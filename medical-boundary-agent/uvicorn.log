@@ -1,0 +1,16 @@
+INFO:     Started server process [33120]
+INFO:     Waiting for application startup.
+INFO:     Application startup complete.
+INFO:     Uvicorn running on http://0.0.0.0:8000 (Press CTRL+C to quit)
+[OK] Medical Boundary Agent started
+INFO:     127.0.0.1:59762 - "POST /api/chat HTTP/1.1" 200 OK
+INFO:     127.0.0.1:59764 - "POST /api/chat HTTP/1.1" 200 OK
+INFO:     127.0.0.1:59765 - "POST /api/chat HTTP/1.1" 200 OK
+INFO:     127.0.0.1:57768 - "POST /api/chat HTTP/1.1" 200 OK
+INFO:     127.0.0.1:57771 - "POST /api/chat HTTP/1.1" 200 OK
+INFO:     127.0.0.1:53847 - "GET /docs HTTP/1.1" 200 OK
+INFO:     127.0.0.1:53847 - "GET /openapi.json HTTP/1.1" 200 OK
+INFO:     127.0.0.1:52888 - "POST /api/chat HTTP/1.1" 200 OK
+INFO:     127.0.0.1:62076 - "POST /api/chat HTTP/1.1" 200 OK
+INFO:     127.0.0.1:61990 - "GET /api/graph/mermaid HTTP/1.1" 200 OK
+INFO:     127.0.0.1:61990 - "GET /favicon.ico HTTP/1.1" 404 Not Found
