@@ -1,0 +1,16 @@
+[
+  {
+    "user_id": "test01",
+    "session_id": "s5",
+    "role": "user",
+    "content": "头痛",
+    "timestamp": "2026-06-19T05:44:22.140609+00:00"
+  },
+  {
+    "user_id": "test01",
+    "session_id": "s5",
+    "role": "assistant",
+    "content": "头痛持续多久了？是哪种痛法，比如胀痛还是刺痛？",
+    "timestamp": "2026-06-19T05:44:22.158662+00:00"
+  }
+]
